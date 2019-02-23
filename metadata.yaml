@@ -1,11 +1,16 @@
 _repo: Bombers-Training-and-Application-of-Same-in-Trench-Warfare_58895
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58895-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferris, J. R.
     gutenberg_agent_id: '50201'
     url: http://www.gutenberg.org/2009/agents/50201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58895#Bombers-Training-and-Application-of-Same-in-Trench-Warfare
 gutenberg_issued: '2019-02-15'
 gutenberg_type: Text
 identifiers:
